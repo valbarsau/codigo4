@@ -4,7 +4,7 @@
 
   <groupId>es.egc</groupId>
   <artifactId>77843962W</artifactId>
-  <version>4.1</version>
+  <version>4.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>ex4</name>
